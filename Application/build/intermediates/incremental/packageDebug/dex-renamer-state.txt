@@ -1,0 +1,7 @@
+#Sat Jul 22 11:13:29 EEST 2017
+base.0=D\:\\workspace\\_notmine\\android-BasicSyncAdapter\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3118e17e7141a4c4515dcd4f733522cf988caf63
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\workspace\\_notmine\\android-BasicSyncAdapter\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f01ca39a4ae9f99fbceabb87f7e00b716de75b19\\classes.dex
+base.1=D\:\\workspace\\_notmine\\android-BasicSyncAdapter\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f01ca39a4ae9f99fbceabb87f7e00b716de75b19
+file.0=D\:\\workspace\\_notmine\\android-BasicSyncAdapter\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3118e17e7141a4c4515dcd4f733522cf988caf63\\classes.dex

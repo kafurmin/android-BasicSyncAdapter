@@ -1,0 +1,165 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:20:1-115:12
+	package
+		ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:21:5-51
+	android:versionName
+		ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:23:5-30
+		INJECTED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:22:5-28
+		INJECTED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:20:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:29:5-66
+	android:name
+		ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:29:22-64
+uses-permission#android.permission.READ_SYNC_STATS
+ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:31:5-73
+	android:name
+		ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:31:22-71
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:33:5-77
+	android:name
+		ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:33:22-75
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:35:5-79
+	android:name
+		ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:35:22-77
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:36:5-80
+	android:name
+		ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:36:22-78
+application
+ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:39:5-113:19
+MERGED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\Kif\.android\build-cache\1b6666d5e646939e58dd1e6cadd91f0e2acd3ffd\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Kif\.android\build-cache\c59add149c59ec806ce49559c45f923c934f29b7\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Kif\.android\build-cache\240d335b44b3dc3b772adb4fd6e06e893da15ff8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Kif\.android\build-cache\45d79988febcda7d750bccb55c727cab3670a004\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Kif\.android\build-cache\45c616800bd5a977e82c6f1910927bda872226d7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Kif\.android\build-cache\b1b02b2d9d7921db114f1f28fb93b75eec781a3c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Kif\.android\build-cache\a203482a9ad358e54456a4da7aeae2e46f5c21c2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Kif\.android\build-cache\aa5182459762205eb6f9df0593419b8316c13de4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Kif\.android\build-cache\edf1d34ce54893bdf3f7236d9726f49b43aff3c0\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Kif\.android\build-cache\6032f675ca91da1abde69273efcb0254d5c78ca4\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Kif\.android\build-cache\2d735c27ed31c17f60a8939d1c7b3e37a6ccd50b\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:42:9-41
+	android:allowBackup
+		ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:40:9-35
+	android:icon
+		ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:41:9-45
+	android:theme
+		ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:43:9-40
+activity#com.example.android.basicsyncadapter.EntryListActivity
+ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:46:9-54:20
+	android:label
+		ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:48:13-45
+	android:name
+		ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:47:13-46
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:50:13-53:29
+action#android.intent.action.MAIN
+ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:51:17-69
+	android:name
+		ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:51:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:52:17-77
+	android:name
+		ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:52:27-74
+provider#com.example.android.basicsyncadapter.provider.FeedProvider
+ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:64:9-67:40
+	android:authorities
+		ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:66:13-71
+	android:exported
+		ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:67:13-37
+	android:name
+		ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:65:13-50
+service#com.example.android.basicsyncadapter.SyncService
+ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:71:9-81:19
+	android:exported
+		ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:72:13-36
+	android:name
+		ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:71:18-45
+intent-filter#android.content.SyncAdapter
+ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:75:13-77:29
+action#android.content.SyncAdapter
+ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:76:17-70
+	android:name
+		ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:76:25-67
+meta-data#android.content.SyncAdapter
+ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:79:13-80:55
+	android:resource
+		ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:80:17-52
+	android:name
+		ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:79:24-66
+service#com.example.android.common.accounts.GenericAccountService
+ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:89:9-97:19
+	android:name
+		ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:89:18-90
+intent-filter#android.accounts.AccountAuthenticator
+ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:91:13-93:29
+action#android.accounts.AccountAuthenticator
+ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:92:17-80
+	android:name
+		ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:92:25-77
+meta-data#android.accounts.AccountAuthenticator
+ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:95:13-96:57
+	android:resource
+		ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:96:17-54
+	android:name
+		ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:95:24-76
+receiver#com.example.android.basicsyncadapter.MyBoradcastReciever
+ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:99:9-111:20
+	android:enabled
+		ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:101:13-35
+	android:exported
+		ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:102:13-36
+	android:name
+		ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:100:13-48
+intent-filter#com.example.android.basicsyncadapter
+ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:103:13-110:29
+action#com.example.android.basicsyncadapter
+ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:104:17-86
+	android:name
+		ADDED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml:104:25-76
+uses-sdk
+INJECTED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\Kif\.android\build-cache\1b6666d5e646939e58dd1e6cadd91f0e2acd3ffd\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Kif\.android\build-cache\c59add149c59ec806ce49559c45f923c934f29b7\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Kif\.android\build-cache\240d335b44b3dc3b772adb4fd6e06e893da15ff8\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Kif\.android\build-cache\45d79988febcda7d750bccb55c727cab3670a004\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Kif\.android\build-cache\45c616800bd5a977e82c6f1910927bda872226d7\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Kif\.android\build-cache\b1b02b2d9d7921db114f1f28fb93b75eec781a3c\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Kif\.android\build-cache\a203482a9ad358e54456a4da7aeae2e46f5c21c2\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Kif\.android\build-cache\aa5182459762205eb6f9df0593419b8316c13de4\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Kif\.android\build-cache\edf1d34ce54893bdf3f7236d9726f49b43aff3c0\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Kif\.android\build-cache\6032f675ca91da1abde69273efcb0254d5c78ca4\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Kif\.android\build-cache\2d735c27ed31c17f60a8939d1c7b3e37a6ccd50b\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Kif\.android\build-cache\240d335b44b3dc3b772adb4fd6e06e893da15ff8\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace\_notmine\android-BasicSyncAdapter\Application\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\Kif\.android\build-cache\1b6666d5e646939e58dd1e6cadd91f0e2acd3ffd\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Kif\.android\build-cache\c59add149c59ec806ce49559c45f923c934f29b7\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Kif\.android\build-cache\240d335b44b3dc3b772adb4fd6e06e893da15ff8\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Kif\.android\build-cache\45d79988febcda7d750bccb55c727cab3670a004\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Kif\.android\build-cache\45c616800bd5a977e82c6f1910927bda872226d7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Kif\.android\build-cache\b1b02b2d9d7921db114f1f28fb93b75eec781a3c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Kif\.android\build-cache\a203482a9ad358e54456a4da7aeae2e46f5c21c2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Kif\.android\build-cache\aa5182459762205eb6f9df0593419b8316c13de4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Kif\.android\build-cache\edf1d34ce54893bdf3f7236d9726f49b43aff3c0\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Kif\.android\build-cache\6032f675ca91da1abde69273efcb0254d5c78ca4\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Kif\.android\build-cache\2d735c27ed31c17f60a8939d1c7b3e37a6ccd50b\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\Kif\.android\build-cache\1b6666d5e646939e58dd1e6cadd91f0e2acd3ffd\output\AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\Kif\.android\build-cache\1b6666d5e646939e58dd1e6cadd91f0e2acd3ffd\output\AndroidManifest.xml:23:9-47
